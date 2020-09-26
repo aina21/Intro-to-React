@@ -26,7 +26,7 @@
     "prettier": "^1.16.1",
     "node-forge": ">=0.10.0",
     "node-fetch": ">=2.6.1",
-    "dot-prop": ">=4.2.1",
+    "dot-prop": ">=5.1.1",
     "serialize-to-js": ">=3.0.1"
   },
   "scripts": {
